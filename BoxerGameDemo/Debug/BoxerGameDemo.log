@@ -1,0 +1,3 @@
+﻿  BoxerGameDemo.cpp
+e:\c++program\visualstudio2017\boxergamedemo\boxergamedemo\boxergamedemo.cpp(211): warning C4715: “WndProc”: 不是所有的控件路径都返回值
+  BoxerGameDemo.vcxproj -> E:\C++program\VisualStudio2017\BoxerGameDemo\Debug\BoxerGameDemo.exe
